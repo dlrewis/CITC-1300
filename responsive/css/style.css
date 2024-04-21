@@ -7,7 +7,7 @@ img {
 
 body {
     background-color:#6F9CA6;
-
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #container {
@@ -17,6 +17,7 @@ body {
 
 h1,h2,h3 {
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 /* Mobile Styles */
 nav {
@@ -31,6 +32,7 @@ nav ul {
 
 nav li {
     display: block;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 nav li a {
@@ -42,10 +44,12 @@ nav li a {
     font-size: 20px;
     font-weight: bold;
     text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 header h1 {
     font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 main {
